@@ -1,1 +1,1 @@
-# api-node-express-mongodb-example
+Taken from a Monsterlessons Academy video. Video URL: https://www.youtube.com/watch?v=Qz0WcLpHy9U&t=298s
